@@ -2,7 +2,7 @@
 <h1>rapid30-deliveries</h1>
 </div>
 
-A React + Vite application with an Express server used for local development and simple deployment. Includes admin, driver, customer and analytics components for a delivery/fulfillment dashboard.
+A React + Vite application used for local development and simple deployment. Includes admin, driver, customer and analytics components for a delivery/fulfillment dashboard.
 
 **Key features**
 - Real-time-ish UI built with React and Vite
