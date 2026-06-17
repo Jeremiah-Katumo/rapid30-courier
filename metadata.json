@@ -1,0 +1,6 @@
+{
+  "name": "Commodity Delivery Platform",
+  "description": "An offline-capable rapid commodity delivery tracker with multi-role access, price lookups, GPS tracking simulation, ratings, and secure transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
